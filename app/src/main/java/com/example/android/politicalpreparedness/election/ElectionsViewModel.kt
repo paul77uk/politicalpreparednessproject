@@ -25,7 +25,7 @@ class ElectionsViewModel() : ViewModel() {
     private fun getElectionResponse() {
         viewModelScope.launch {
             val listResult = CivicsApi.retrofitService.getElections()
-            _elections.value = "${listResult.size}"
+            _elections.value = "$listResult"
         }
     }
     //TODO: Create functions to navigate to saved or upcoming election voter info
