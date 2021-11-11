@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.loader:loader:1.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e544fe0f3a84b26433d84bdd61bbae83/loader-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df074742ebaf7429dd5228d7846977b6/loader-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5233a546095965f2b1d4ea165653afb7/loader-1.0.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1e6966886a8e1f8f267ceece853bae8/transformed/loader-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1e6966886a8e1f8f267ceece853bae8/transformed/loader-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1e6966886a8e1f8f267ceece853bae8/transformed/loader-1.0.0/AndroidManifest.xml" />
